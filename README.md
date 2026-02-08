@@ -15,6 +15,6 @@ This is an interactive data-driven web page for analysing data of Toxic Emission
 > **Note:** This project does **not** use a traditional front-end framework like React, Vue, or Angular; it is a lightweight, library-based interactive setup.
 
 ## How to use
-Download the folders
-Open terminal in file inded.md
-Type "npm run dev"
+- Download the folders
+- Open terminal in file inded.md
+- Type "npm run dev"
